@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: SiruettoData
+  m_EditorClassIdentifier: 
+  categoryName: "\u30E9\u30F3\u30C0\u30E0"
+  questions:
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 03125d3720f4b4d948faf1e126825e14, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u3055\u304F\u3089\u3093\u307C"
+    - "\u308A\u3093\u3054"
+    - "\u307F\u304B\u3093"
+    - "\u3076\u3069\u3046"
+    correctAns: "\u3055\u304F\u3089\u3093\u307C"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b0f7c8ab349d646e79ed6c761800edb0, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30D0\u30CA\u30CA"
+    - "\u30D3\u30EF"
+    - "\u30CA\u30B9"
+    - "\u30D8\u30C1\u30DE"
+    correctAns: "\u30D0\u30CA\u30CA"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 35ae5f7ba73304449a16f8b4fca81071, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30AF\u30EA\u30AA\u30CD"
+    - "\u5929\u4F7F"
+    - "\u30D7\u30E9\u30F3\u30AF\u30C8\u30F3"
+    - "\u30DF\u30C8\u30B3\u30F3\u30C9\u30EA\u30A2"
+    correctAns: "\u30AF\u30EA\u30AA\u30CD"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 67893f92cf43c4ded9cc95adac8d6a79, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u67F4\u72AC"
+    - "\u30C9\u30FC\u30D9\u30EB\u30DE\u30F3"
+    - "\u30CF\u30B9\u30AD\u30FC"
+    - "\u30D6\u30EB\u30C9\u30C3\u30B0"
+    correctAns: "\u30C9\u30FC\u30D9\u30EB\u30DE\u30F3"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 3050ba15de4f343779efa951622f41ea, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30B3\u30C0\u30C3\u30B0"
+    - "\u30A2\u30D2\u30EB"
+    - "\u30CF\u30AF\u30C1\u30E7\u30A6"
+    - "\u30C0\u30C1\u30E7\u30A6"
+    correctAns: "\u30A2\u30D2\u30EB"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 10b2c89839bdb4893a0a1777b32bc8e2, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30AD\u30EA\u30F3"
+    - "\u30E9\u30AF\u30C0"
+    - "\u30B7\u30DE\u30A6\u30DE"
+    - "\u30A2\u30EB\u30D1\u30AB"
+    correctAns: "\u30AD\u30EA\u30F3"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 1315bc8f56a1541f8a957573de35d08c, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30E9\u30C3\u30B3"
+    - "\u30C8\u30C9"
+    - "\u30DA\u30F3\u30AE\u30F3"
+    - "\u30A2\u30B7\u30AB"
+    correctAns: "\u30DA\u30F3\u30AE\u30F3"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 931994e51b7f3419f87949f8aa996d63, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30BF\u30CC\u30AD"
+    - "\u30A4\u30CE\u30B7\u30B7"
+    - "\u30AF\u30DE"
+    - "\u30A6\u30EA\u574A"
+    correctAns: "\u30BF\u30CC\u30AD"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 9512c9264d013462f93ea964d8118987, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30B5\u30BD\u30EA"
+    - "\u30AF\u30E2"
+    - "\u30B6\u30EA\u30AC\u30CB"
+    - "\u30BF\u30E9\u30F3\u30C1\u30E5\u30E9"
+    correctAns: "\u30B5\u30BD\u30EA"
+  - questionInfo: "\u3053\u308C\u306F\u306A\u3093\u3067\u3057\u3087\u3046?"
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: b5f06c49897df4b0da082922f6120a0d, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "\u30BF\u30E9\u30D0\u30AC\u30CB"
+    - "\u30DE\u30C4\u30D0\u30AC\u30CB"
+    - "\u30E4\u30C9\u30AB\u30EA"
+    - "\u30BF\u30AB\u30A2\u30B7\u30AC\u30CB"
+    correctAns: "\u30BF\u30E9\u30D0\u30AC\u30CB"
